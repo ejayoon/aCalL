@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aCalL</string>
+    <string name="title_activity_default">DefaultActivity</string>
+    <string name="nav_text">Text</string>
+    <string name="nav_voice">Voice</string>
+    <string name="button_call_gapi">Call Google Calendar API</string>
+    <string name="login_txt_init">Click the Call Google Calendar API button to test the API.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
